@@ -32,7 +32,7 @@ To run this project, you can follow these steps:
 - Support Vector Classifier
 
 ## conclusion
-In this project, we analyzed the Titanic dataset and built several machine learning models to predict the survival rate of passengers. This project demonstrates the importance of feature engineering and model selection in machine learning.
+In this project, I analyzed the Titanic dataset and built several machine learning models to predict the survival rate of passengers. This project demonstrates the importance of feature engineering and model selection in machine learning.
 
 ## Authors
 
